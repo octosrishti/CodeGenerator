@@ -20,7 +20,7 @@ Clone the project repository or download the source code.
 Open a terminal or command prompt and navigate to the project directory.
 Copy code and run the terminal .
 
-License
+# License
 The Code Generator Python Project is released under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
 
 
